@@ -1,4 +1,4 @@
-# Begin basic Hello World! app (Deno)
+# Begin basic Hello World! app (Demo)
 
 [![Begin build status](https://buildstatus.begin.app/music-4cw/status.svg)](https://begin.com)
 
